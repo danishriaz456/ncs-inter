@@ -23,6 +23,7 @@ common:
       - nrf54lm20dk/nrf54lm20a/cpuapp
       - nrf7002dk/nrf5340/cpuapp
       - nrf7002dk/nrf5340/cpuapp/ns
+      - esp32s3_devkitc/esp32s3/procpu
     platform_allow:
       - nrf52dk/nrf52832
       - nrf52833dk/nrf52833
@@ -42,6 +43,7 @@ common:
       - nrf54lm20dk/nrf54lm20a/cpuapp
       - nrf7002dk/nrf5340/cpuapp
       - nrf7002dk/nrf5340/cpuapp/ns   
+      - esp32s3_devkitc/esp32s3/procpu
     
 tests:
   ncs_inter.l6.e1_sol:
